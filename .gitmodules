@@ -6,3 +6,8 @@
 [submodule "odooec"]
 	path = odooec
 	url = git@github.com:ovnicraft/odooec.git
+
+[submodule "OCA/server-tools"]
+	path = OCA/server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 10.0
